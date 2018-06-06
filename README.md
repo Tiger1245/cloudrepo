@@ -4,5 +4,5 @@
 
 3. To Package use: `mvn package`
 
-4. Configured Jenkins for every 1 minute polling
+4. Configured Jenkins for every 3 minute polling
 
